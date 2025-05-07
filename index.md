@@ -11,8 +11,19 @@ I hold a joint Ph.D. from the University of Nottingham, the University of Oxford
 Beyond research, I serve as the Chair of the China Chapter of the Marie Curie Alumni Association and actively organize international forums and academic events. I’m passionate about bridging academia and industry, promoting open collaboration, and applying AI to real-world challenges.
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Knowledge Graphs & Graph Neural Networks: construction, embedding, and reasoning for semantic modeling, intelligent manufacturing, and biomedical applications
+
+Machine Learning & AI Systems: reinforcement learning (DQN, DDQN, DDPG), deep learning, multimodal fusion, and interpretable AI for real-world decision-making
+
+Computer Vision: object detection, human-robot interaction, defect inspection, and 3D reconstruction in industrial and medical environments
+
+Natural Language Processing: large language models, information extraction, and semantic alignment with knowledge graphs
+
+Robotics & Digital Twins: intelligent robotic systems, motion planning, multi-agent control, and AI-driven digital twin technologies for adaptive manufacturing
+
+Computational Sustainability & Biology: AI applications for life cycle assessment, traceability, and systems biology through integrated data modeling
+
+
 
 ## News
 
