@@ -23,14 +23,16 @@ Beyond research, I serve as the Chair of the China Chapter of the Marie Curie Al
 
 **Computational Sustainability & Biology**: AI applications for life cycle assessment, traceability, and systems biology through integrated data modeling
 
-
-
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2024]** Our paper _"Semantic Models and Knowledge Graphs as Manufacturing System Reconfiguration Enablers"_ is published in _Robotics and Computer-Integrated Manufacturing_.
+- **[Mar. 2024]** Gave an invited talk on _"Advancing Capability Matching in Manufacturing Reconfiguration with LLMs"_ at FAIM 2024.
+- **[Nov. 2023]** Our paper on _"PLC Orchestration Automation for Adaptive Manufacturing Systems"_ is published in _Journal of Manufacturing Systems_.
+- **[Sept. 2023]** Served as Session Chair at the 34th Flexible Automation and Intelligent Manufacturing Conference.
+- **[Jul. 2023]** Presented at the 22nd IFAC World Congress and chaired a session on AI in manufacturing.
+- **[Apr. 2023]** Our paper _"A Maturity Model for the Autonomy of Manufacturing Systems"_ is published in _The International Journal of Advanced Manufacturing Technology_.
+- **[Aug. 2022]** Delivered a workshop on Marie Curie Fellowships, attended by 500+ researchers.
+
 
 {% include_relative _includes/publications.md %}
 
